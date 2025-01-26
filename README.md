@@ -1,1 +1,3 @@
 # LLM-Fine-tuning-with-Quantization
+
+n this project, I explored the process of applying 4-bit quantization to the LLaMA 2 7B model using the QLoRA technique, which significantly reduces the model’s size while maintaining its performance for efficient deployment. After successfully quantizing the model, I performed inference to validate its functionality and effectiveness. Furthermore, the code and associated files have been pushed to the Hugging Face Hub, making it accessible for further use and experimentation by the community.
